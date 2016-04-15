@@ -1,0 +1,15 @@
+.table-row-cell {
+    -fx-cell-size: 50px;
+    -fx-alignment: center;
+}
+.table-cell {
+    -fx-alignment: center-left;
+}
+.locPathHBox {
+    -fx-alignment: center-left;
+}
+.messageBar {
+    -fx-padding: 5px 5px 5px 10px;
+    -fx-font-weight: bold;
+    -fx-text-fill: red;
+}
